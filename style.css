@@ -1,0 +1,11 @@
+body {
+    background: rgb(107, 107, 218);
+}
+
+img {
+    display: block;
+    max-width:50%;
+    max-height:50%;
+    width: auto;
+    height: auto;
+  }
